@@ -1,1 +1,14 @@
 body {background-color: brown;}
+.h1 {
+    text-align: center;
+    text-decoration-style: wavy;
+    font-style: bold; 
+    background-color: rgb(240, 255, 104); 
+    color: hotpink; 
+    border: 10px dotted hotpink; 
+}
+.turtle_sentence {
+    text-align: center;
+    font-size: 1.2em;
+    color: gold;
+}
